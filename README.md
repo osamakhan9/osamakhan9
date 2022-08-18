@@ -1,14 +1,14 @@
-   <h1 align="center">Hi 👋, I'm Osama khan</h1>
+<h1 align="center">Hi 👋, I'm Osama khan</h1>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-    <hr>
 
-    <img align="right" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="">
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamakhan9&label=Profile%20views&color=0e75b6&style=flat" alt="osamakhan9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osamakhan9" alt="osamakhan9" /></a> </p>
+<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osamakhan9" alt="osamakhan9" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/https://twitter.com/okhan4642" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/okhan4642?logo=twitter&style=for-the-badge" alt="https://twitter.com/okhan4642" /></a> </p>
 
 - 🌱 I’m currently learning **React, native**
 
