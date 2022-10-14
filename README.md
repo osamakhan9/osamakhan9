@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osama khan</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Osama</h1>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
