@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React, native**
 
-- 👨‍💻 All of my projects are available at [https://ephemeral-naiad-94c807.netlify.app/]
+- 👨‍💻 All of my projects are available at https://osamakhan9.github.io/
 
 - 💬 Ask me about **MERN**
 
