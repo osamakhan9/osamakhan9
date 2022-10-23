@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **okosama06@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1KOjX4YmgdJebPzsbJx-hj3fqAkqOf1QI/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1_7llquKQhSbCM7OpDOXPkDdDo3pEaUAu/view?usp=sharing">Resume</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
