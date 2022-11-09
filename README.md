@@ -18,11 +18,12 @@ I'm a Full Stack Web Developer .
 
 - 📫 How to reach me **okosama06@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1_7llquKQhSbCM7OpDOXPkDdDo3pEaUAu/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1KOjX4YmgdJebPzsbJx-hj3fqAkqOf1QI/view?usp=sharing">Resume</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<a href="https://fueler.io/osamakhan9">My BLOG </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
