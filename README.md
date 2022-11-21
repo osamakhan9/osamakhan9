@@ -10,7 +10,7 @@ I'm a Full Stack Web Developer .
 
 
 - 🌍  I'm based in India
-- 🧠  I'm learning Next.js
+- 🧠  I'm learning MERN STACK
 
 - 👨‍💻 All of my projects are available at <a href="https://osamakhan9.github.io/">Portfolio</a>
 
