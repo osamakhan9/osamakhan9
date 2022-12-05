@@ -23,9 +23,9 @@ I'm a Full Stack Web Developer .
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<a href="https://fueler.io/osamakhan9">My BLOG </a>
+<a href="https://fueler.io/osamakhan9">My BLOG-Fueler </a>
 <br>
-<a href="https://hashnode.com/@osamakhan9">Hasnode </a>
+<a href="https://hashnode.com/@osamakhan9">Blog Hasnode </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
