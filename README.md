@@ -43,9 +43,7 @@ I'm a Full Stack Web Developer .
     <a href="https://codesandbox.io/dashboard/drafts?workspace=f03763bf-51a1-436a-8349-9df1d9e77fef">
         <img align="center" width="100px" height="28px" src="https://tse2.mm.bing.net/th?id=OIP.LhtS890OE2TdNNdS4EWsiwHaCs&pid=Api&P=0" alt="https://codesandbox.io/dashboard/drafts?workspace=f03763bf-51a1-436a-8349-9df1d9e77fef" />
     </a>
-    <a href="https://codesandbox.io/dashboard/drafts?workspace=f03763bf-51a1-436a-8349-9df1d9e77fef">
-   <img align="center" width="100px" height="28px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"                        alt="https://codesandbox.io/dashboard/drafts?workspace=f03763bf-51a1-436a-8349-9df1d9e77fef" />
-    </a>
+  
 </p>
 
 <!-- <p align="left">
