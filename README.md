@@ -30,8 +30,23 @@ I'm a Full Stack Web Developer .
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://codesandbox.com/osamakhan9">
-        <img align="center" width="100px" height="28px" src="https://tse2.mm.bing.net/th?id=OIP.LhtS890OE2TdNNdS4EWsiwHaCs&pid=Api&P=0" alt="https://codesandbox.io/dashboard/recent?workspace=537e0cca-6a97-4e02-9eca-7e1e28ff7a8b" />
+     <p align="left">
+    <a href="https://www.linkedin.com/in/mohammad-osama-23944018b/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/mohammad-osama-23944018b/" />
     </a>
+  <a href="https://osamakhan9.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://osamakhan9.github.io/" />
+    </a>
+    <a title="okosama06@gmail.com" href="mailto:okosama06@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="okosama06@gmail.com" />
+    </a>
+    <a href="https://codesandbox.io/dashboard/drafts?workspace=f03763bf-51a1-436a-8349-9df1d9e77fef">
+        <img align="center" width="100px" height="28px" src="https://tse2.mm.bing.net/th?id=OIP.LhtS890OE2TdNNdS4EWsiwHaCs&pid=Api&P=0" alt="https://codesandbox.io/dashboard/drafts?workspace=f03763bf-51a1-436a-8349-9df1d9e77fef" />
+    </a>
+    <a href="https://codesandbox.io/dashboard/drafts?workspace=f03763bf-51a1-436a-8349-9df1d9e77fef">
+   <img align="center" width="100px" height="28px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"                        alt="https://codesandbox.io/dashboard/drafts?workspace=f03763bf-51a1-436a-8349-9df1d9e77fef" />
+    </a>
+</p>
 
 <!-- <p align="left">
 <a href="https://codepen.io/osama-khan-the-flexboxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="osama-khan-the-flexboxer" height="30" width="40" /></a>
