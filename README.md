@@ -110,7 +110,7 @@ I'm a Full Stack Web Developer .
 
 <a href="http://www.github.com/osamakhan9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=osamakhan9&stroke=facc15&background=27272a&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="http://www.github.com/osamakhan9"><img src="https://activity-graph.herokuapp.com/graph?username=osamakhan9&bg_color=27272a&color=facc15&line=ef4444&point=facc15&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/osamakhan9"><img src="https://activity-graph.herokuapp.com/graph?username=osamakhan9&bg_color=27272a&color=facc15&line=ef4444&point=facc15&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <a href="https://github.com/osamakhan9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamakhan9&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
