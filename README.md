@@ -18,7 +18,7 @@ I'm a Full Stack Web Developer .
 
 - 📫 How to reach me **okosama06@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1mBG-5Z1Z0V63W-5BzXmVtZJs7WSFTont/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1NNX5lhHevgDZeT2tUpizHYffJnToDhCK/view?usp=sharing">Resume</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
